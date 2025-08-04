@@ -42,9 +42,10 @@ I regularly offer **free development classes** to individuals in my local commun
   <br/>
   <img src="https://streak-stats.demolab.com?user=your-github-username&theme=default" alt="GitHub Streak" />
 </p>
--->
+
 ---
 
 ### 📬 Get in Touch
 
 - 📇 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-placeholder](https://www.linkedin.com/in/leopoldo-est%C3%A9vez-agra/))
+-->
